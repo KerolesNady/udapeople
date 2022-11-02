@@ -2,7 +2,7 @@ A public git repository.[URL01]
 https://github.com/KerolesNady/udapeople-project3
 
 URL to S3 Bucket
-URL02 => http://udapeople-37ac173.s3-website-us-east-1.amazonaws.com
+URL02 => http://udapeople-54b0e6a.s3-website-us-east-1.amazonaws.com
 
 URL to  CloudFront distribution
 URL03  => d2poyewjz845lg.cloudfront.net	
